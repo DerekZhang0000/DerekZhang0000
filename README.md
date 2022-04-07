@@ -1,4 +1,4 @@
-<h2>Good morning, my name is Derek Zhang</h2>
+<h2>Good morning! My name is Derek Zhang</h2>
 <p><em>Computer Science Student at the <a href="https://ku.edu/"> University of Kansas</a></em></p>
 <p><em>Incoming Real Time Software Engineer Intern at <a href="https://www.cboe.com/"> CBOE Global Markets</a></em></p>
 
