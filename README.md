@@ -1,4 +1,4 @@
-<p><em>Computer Science Student at <a href="">the University of Kansas</a>
+<p><em>Computer Science Student at the <a href=""> University of Kansas</a>
 </em></p>
 
 [![Linkedin: anmol](https://img.shields.io/badge/-Derek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/derekzhang0000/)](https://www.linkedin.com/in/derekzhang0000/)
