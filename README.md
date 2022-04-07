@@ -9,7 +9,7 @@
 
 ```javascript
 const Derek = {
-    code: ["Python", "C++", "JavaScript"],
+    languages: ["Python", "C++", "JavaScript"],
     tools: {
         python: ["PyTorch", "OpenCV", "NumPy", "Selenium"],
         js: ["Node"]
