@@ -1,16 +1,17 @@
-### Hi there 👋
+<p><em>Computer Science Student at <a href="">the University of Kansas</a>
+</em></p>
 
-<!--
-**DerekZhang0000/DerekZhang0000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin: anmol](https://img.shields.io/badge/-Derek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/derekzhang0000/)](https://www.linkedin.com/in/derekzhang0000/)
+![GitHub followers](https://img.shields.io/github/followers/DerekZhang0000?label=Follow&style=social)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const Derek = {
+    code: ["Python", "C++", "JavaScript"],
+    tools: {
+        python: ["PyTorch", "OpenCV", "NumPy", "Selenium"],
+        js: ["Node"]
+    },
+    interests: ["Anything AI/ML related", "QOL applications/extensions"]
+};
+```
