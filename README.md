@@ -3,7 +3,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/DerekZhang0000?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=DerekZhang0000)
 ## About me
-<p><em>I am a Computer Science Student at the University of Kansas and I am an incoming Real Time Software Engineer Intern at <a href="https://www.cboe.com/"> CBOE Global Markets</a></em>. I have experience writing Python, C++, and JavaScript. I am especially interested in artificial intelligence and machine learning.</p>
+<p>I am a Computer Science Student at the University of Kansas and I am an incoming Real Time Software Engineer Intern at <a href="https://www.cboe.com/"> CBOE Global Markets</a>. I have experience writing Python, C++, and JavaScript. I am especially interested in artificial intelligence and machine learning.</p>
 
 ```javascript
 const Derek = {
