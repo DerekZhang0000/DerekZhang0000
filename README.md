@@ -5,7 +5,7 @@
 ## About me
 <p>I am a Computer Science Student at the University of Kansas and I am an incoming Real Time Software Engineer Intern at <a href="https://www.cboe.com/"> CBOE Global Markets</a>. I have experience writing Python, C++, and JavaScript. I am especially interested in artificial intelligence and machine learning.</p>
 
-## Derek.json
+## me.json
 
 ```javascript
 const Derek = {
