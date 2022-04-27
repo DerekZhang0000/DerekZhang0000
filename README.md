@@ -3,16 +3,17 @@
 ![GitHub Followers](https://img.shields.io/github/followers/DerekZhang0000?label=Follow&style=social)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=DerekZhang0000)
 ## About me
-<p>I am a Computer Science Student at the University of Kansas and I am an incoming Real Time Software Engineer Intern at <a href="https://www.cboe.com/"> CBOE Global Markets</a>. I have experience writing Python, C++, and JavaScript. I am especially interested in artificial intelligence and machine learning.</p>
+<p>I am a Computer Science Student at the University of Kansas and I am also an incoming Real Time Software Engineer Intern at <a href="https://www.cboe.com/"> CBOE Global Markets</a>. I have experience writing Python, C++, and JavaScript. I am especially interested in artificial intelligence and machine learning.</p>
 
 ## me.json
 
 ```javascript
 const Derek = {
-    languages: ["Python", "C++", "JavaScript", "HTML/CSS],
-    tools: {
-        python: ["PyTorch", "OpenCV", "NumPy", "Selenium"],
-        js: ["Node"]
+    skills: {
+        languages: ["Python", "C++", "JavaScript", "HTML/CSS],
+        libraries:  ["PyTorch", "NumPy", "Selenium"],
+        tools: ["Git", "Google Cloud API", "VHDL", "IBM SPSS"],
+        environments: ["Node", "Anaconda", "Linux"]
     },
     interests: ["Anything AI/ML related", "QOL applications/extensions"]
 };
