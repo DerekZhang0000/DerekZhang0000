@@ -16,7 +16,7 @@
 ```javascript
 const Derek = {
     skills: {
-        languages: ["Python", "C++", "JavaScript", "HTML/CSS", "Haskell", "Assembly"],
+        languages: ["Python", "C++", "JavaScript", "MATLAB", "Java", "Haskell"],
         libraries:  ["PyTorch", "Pandas", "NumPy", "Selenium"],
         tools: ["Git", "Google Cloud API", "VHDL", "IBM SPSS"],
         environments: ["Node", "Anaconda", "Linux"]
