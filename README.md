@@ -8,6 +8,7 @@
 
 ## What I'm doing
 - Lug calculator for the aerospace industry
+- Computer vision for identifying vacant parking spots
 
 ## me.json
 
