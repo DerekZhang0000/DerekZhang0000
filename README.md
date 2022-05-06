@@ -7,9 +7,7 @@
 <p>I am a Computer Science Student at the University of Kansas and I am also an incoming Real Time Software Engineer Intern at <a href="https://www.cboe.com/"> CBOE Global Markets</a>. I have experience writing Python, C++, and JavaScript. I am especially interested in artificial intelligence and machine learning.</p>
 
 ## What I'm doing
-- Computer vision for detecting empty parking spots
 - Lug calculator for the aerospace industry
-- All-inclusive GPA Calculator
 
 ## me.json
 
