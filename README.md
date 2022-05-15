@@ -8,7 +8,7 @@
 
 ## What I'm doing
 - Lug calculator for the aerospace industry
-- Computer vision for identifying vacant parking spots
+- Computer vision for identifying cars in parking lots
 
 ## me.json
 
@@ -16,7 +16,7 @@
 const Derek = {
     skills: {
         languages: ["Python", "C++", "JavaScript", "MATLAB", "Haskell"],
-        libraries:  ["PyTorch", "Pandas", "NumPy", "Selenium"],
+        libraries:  ["PyTorch", "Pandas", "NumPy", "SciPy"],
         tools: ["Git", "Google Cloud API", "VHDL", "IBM SPSS"],
         environments: ["Node", "Anaconda", "Linux"]
     },
