@@ -8,7 +8,9 @@
 
 ## What I'm doing
 - Lug calculator for the aerospace industry
-- Computer vision for identifying cars in parking lots
+- OpenCV C++ program for adjusting hard-to-distinguish colors for the colorblind
+- Snake in MATLAB
+- PyTorch program for identifying cars in parking lots
 
 ## me.json
 
