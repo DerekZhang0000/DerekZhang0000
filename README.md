@@ -8,7 +8,6 @@
 
 ## What I'm doing
 - Lug calculator for the aerospace industry
-- OpenCV C++ program for adjusting hard-to-distinguish colors for the colorblind
 - Snake in MATLAB
 - PyTorch program for identifying cars in parking lots
 
@@ -18,7 +17,7 @@
 const Derek = {
     skills: {
         languages: ["Python", "C++", "JavaScript", "MATLAB", "Haskell"],
-        libraries:  ["PyTorch", "Pandas", "NumPy", "SciPy"],
+        libraries:  ["PyTorch", "OpenCV", "Pandas", "NumPy", "SciPy"],
         tools: ["Git", "Google Cloud API", "VHDL", "IBM SPSS"],
         environments: ["Node", "Anaconda", "Linux"]
     },
