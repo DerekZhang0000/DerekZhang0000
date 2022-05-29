@@ -8,7 +8,7 @@
 
 ## What I'm doing
 - Lug calculator for the aerospace industry
-- Snake in MATLAB
+- OpenCV C++ program for increasing color differentiability among the red-green colorblind
 - PyTorch program for identifying cars in parking lots
 
 ## me.json
