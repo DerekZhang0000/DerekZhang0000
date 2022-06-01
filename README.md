@@ -8,8 +8,8 @@
 
 ## What I'm doing
 - Lug calculator for the aerospace industry
-- OpenCV C++ program for increasing color differentiability among the red-green colorblind
 - PyTorch program for identifying cars in parking lots
+- Improve Color Assist, an OpenCV C++ program for boosting red-green color differentiability
 
 ## me.json
 
