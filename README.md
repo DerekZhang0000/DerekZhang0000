@@ -8,6 +8,7 @@
 
 ## What I'm doing
 - Lug calculator for the aerospace industry
+- AI that gives optimal pokemon go routes
 - PyTorch program for identifying cars in parking lots
 
 ## me.json
