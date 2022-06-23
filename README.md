@@ -7,7 +7,6 @@
 <p>I am a Computer Science Student at the University of Kansas and I am a Real Time Software Engineer Intern at <a href="https://www.cboe.com/"> CBOE Global Markets</a>. I have experience writing Python, C++, and JavaScript. I am especially interested in artificial intelligence and machine learning.</p>
 
 ## What I'm doing
-- Lug calculator for the aerospace industry
 - Automatic connect-the-dots
 - AI that can play Diep.io
 
