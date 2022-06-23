@@ -8,6 +8,7 @@
 
 ## What I'm doing
 - Lug calculator for the aerospace industry
+- Automatic connect-the-dots
 - AI that can play Diep.io
 
 ## me.json
