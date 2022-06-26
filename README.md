@@ -8,6 +8,7 @@
 
 ## What I'm doing
 - Stock/Options Bot
+- Reworking Wordle AI to use optimal search
 - Automatic connect-the-dots
 - AI that can play Diep.io
 
