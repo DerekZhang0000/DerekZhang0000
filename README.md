@@ -8,7 +8,6 @@
 
 ## What I'm doing
 - Parking space car detector
-- Learning Go
 
 ## me.json
 
