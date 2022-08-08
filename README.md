@@ -8,6 +8,7 @@
 
 ## What I'm doing
 - Warehouse management software in Golang
+- BAW options calculator in Golang
 
 ## me.json
 
