@@ -4,7 +4,7 @@
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=DerekZhang0000)
 
 ## About me
-<p>I am a Computer Science Student at the University of Kansas and I am a Real Time Software Engineer Intern at <a href="https://www.cboe.com/"> CBOE Global Markets</a>. I am most comfortable with Python, C++, and Go, though I have experience with many more languages and tools. I also run my own business, [DataBlu](datablu.net), which specializes in building custom software for small businesses. I am especially interested in AI and Machine Learning</p>
+<p>I am a Computer Science Student at the University of Kansas and I am a Real Time Software Engineer Intern at <a href="https://www.cboe.com/"> CBOE Global Markets</a>. I am most comfortable with Python, C++, and Go, though I have experience with many more languages and tools. I also run my own business, <a href="https://www.datablu.net">DataBlu</a>, which specializes in building custom software for small businesses. I am especially interested in AI and Machine Learning</p>
 
 ## What I'm doing
 - Warehouse management software in Golang
