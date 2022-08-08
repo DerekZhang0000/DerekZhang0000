@@ -16,8 +16,7 @@ const Derek = {
     skills: {
         languages: ["Python", "C++", "Go", "JavaScript", "MATLAB", "SQL", "Haskell"],
         libraries:  ["PyTorch", "OpenCV", "Pandas", "NumPy", "SciPy"],
-        tools: ["Git", "Google Cloud API", "VHDL", "IBM SPSS"],
-        environments: ["Node", "Anaconda", "Linux"]
+        tools: ["Git", "Jira", "Bitbucket", "Azure", "Google Cloud API", "VHDL", "IBM SPSS"],
     },
     interests: ["Artificial Intelligence", "Machine Learning", "Backend Stuff"]
 };
