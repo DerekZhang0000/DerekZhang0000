@@ -11,6 +11,7 @@ I am also planning on attending graduate school at the University of Kansas and 
 ## What I'm doing
 - Internship applications
 - Homework
+- RC Drone
 
 ## me.json
 
