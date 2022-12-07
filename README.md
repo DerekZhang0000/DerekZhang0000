@@ -9,9 +9,9 @@
 I am also planning on attending graduate school at the University of Kansas and conducting a thesis concerning artificial intelligence.</p>
 
 ## What I'm doing
-- Internship applications
-- Homework
 - RC Drone
+- Internship applications
+- Studying for finals
 
 ## me.json
 
