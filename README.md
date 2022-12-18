@@ -9,17 +9,17 @@
 I am also planning on attending graduate school at the University of Kansas and conducting a thesis concerning artificial intelligence.</p>
 
 ## What I'm doing
+- Sportsbetting AI
 - RC Drone
 - Internship applications
-- Studying for finals
 
 ## me.json
 
 ```javascript
 const Derek = {
     skills: {
-        languages: ["Python", "C++", "Go", "SQL", "JavaScript", "HTML", "CSS", "MATLAB", "Haskell"],
-        libraries:  ["PyTorch", "OpenCV", "Pandas", "NumPy", "SciPy"],
+        languages: ["Python", "C++", "Go", "SQL", "JavaScript", "HTML", "CSS", "PHP", "MATLAB", "Haskell"],
+        libraries:  ["Sklearn", "PyTorch", "OpenCV", "Pandas", "NumPy", "SciPy"],
         tools: ["Git", "Jira", "Bitbucket", "Azure", "Google Cloud", "VHDL", "IBM SPSS"],
     },
     interests: ["Artificial Intelligence", "Machine Learning", "Quantum Computing", "Backend Stuff"]
