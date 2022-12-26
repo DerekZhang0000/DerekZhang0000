@@ -6,7 +6,7 @@
 ## About me
 <p>I am a Computer Science Student at the University of Kansas. I am most comfortable with Python, C++, and Go, though I have experience with many more languages and tools. I also run my own business, <a href="https://www.datablu.net">DataBlu</a>, which specializes in building custom software for small businesses. I am especially interested in AI and Machine Learning
 
-I am also planning on attending graduate school at the University of Kansas and conducting a thesis concerning artificial intelligence.</p>
+I am also planning on obtaining a Master's in Computer Science with a specialization on artificial intelligence or machine learning.</p>
 
 ## What I'm doing
 - Sportsbetting AI
