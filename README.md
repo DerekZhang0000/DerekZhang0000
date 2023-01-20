@@ -18,9 +18,9 @@ I am also planning on obtaining a Master's in Computer Science with a specializa
 ```javascript
 const Derek = {
     skills: {
-        languages: ["Python", "C++", "Go", "SQL", "JavaScript", "HTML", "CSS", "PHP", "MATLAB", "Haskell"],
+        languages: ["Python", "C++", "Go", "Java", "C", "SQL", "Shell", "JavaScript", "HTML", "CSS", "PHP", "Assembly", "MATLAB", "Haskell"],
         libraries:  ["Sklearn", "PyTorch", "OpenCV", "Pandas", "NumPy", "SciPy"],
-        tools: ["Git", "Jira", "Bitbucket", "Azure", "Google Cloud", "VHDL", "IBM SPSS"],
+        tools: ["Git", "Jira", "Bitbucket", "Microsoft Azure", "Google Cloud", "VHDL", "IBM SPSS"],
     },
     interests: ["Artificial Intelligence", "Machine Learning", "Quantum Computing", "Backend Stuff"]
 };
