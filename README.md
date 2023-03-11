@@ -11,9 +11,7 @@ I am also actively involved in IEEE and have participated in various projects wi
 I am most comfortable with programming in Python and C++, but I have experience with many other languages such as JavaScript, Go, and SQL. My goal is to continue to expand my knowledge and skills in the field and I am planning on pursuing a Master's in Computer Science with a specialization in artificial intelligence or machine learning in the future. I am excited to see where this journey takes me and I look forward to the opportunities that lie ahead.</p>
 
 ## What I'm doing
-- Sportsbetting AI
-- RC Drone
-- Internship applications
+- Secret Project
 
 ## me.json
 
