@@ -12,15 +12,18 @@ I am most comfortable with programming in Python and C++, but I have experience 
 
 ## What I'm doing
 - Secret Project
+- Research Assisting
+- Fine tuning language model
+- Fortran stuff
 
 ## me.json
 
 ```javascript
 const Derek = {
     skills: {
-        languages: ["Python", "C++", "Go", "Java", "C", "SQL", "Shell", "JavaScript", "HTML", "CSS", "PHP", "Assembly", "MATLAB", "Haskell"],
+        languages: ["Python", "C++", "Go", "Java", "C", "SQL", "JavaScript", "Assembly", "MATLAB", "Haskell"],
         libraries:  ["Sklearn", "PyTorch", "OpenCV", "Pandas", "NumPy", "SciPy"],
-        tools: ["Git", "Jira", "Bitbucket", "Microsoft Azure", "Google Cloud", "VHDL", "IBM SPSS"],
+        tools: ["Git", "Jira", "Bitbucket", "Microsoft Azure", "Google Cloud", "VHDL", "IBM SPSS", "QGIS", "OpenSSL"],
     },
     interests: ["Artificial Intelligence", "Machine Learning", "Quantum Computing", "Backend Stuff"]
 };
