@@ -13,7 +13,6 @@ I am most comfortable with programming in Python and C++, but I have experience 
 ## What I'm doing
 - Secret Project
 - Research Assisting
-- Fine tuning language model
 - Fortran stuff
 
 ## me.json
