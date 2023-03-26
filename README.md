@@ -1,7 +1,6 @@
 # Hi, I'm Derek Zhang
 [![Linkedin: Derek](https://img.shields.io/badge/-Derek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/derekzhang0000/)](https://www.linkedin.com/in/derekzhang0000/)
 ![GitHub Followers](https://img.shields.io/github/followers/DerekZhang0000?label=Follow&style=social)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=DerekZhang0000)
 
 ## About me
 <p>My name is Derek Zhang and I am a junior computer science student at the University of Kansas. I have a passion for technology and a drive to learn and grow in the field. My previous experience includes working as a software engineer intern for Cboe Global Markets, where I had the opportunity to work on C++ programs for real-time systems. Additionally, I have also run my own company, <a href="https://www.datablu.net">DataBlu LLC</a>, which specialized in creating custom software for small businesses.
