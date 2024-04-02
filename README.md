@@ -10,5 +10,5 @@ In addition to my academic and professional pursuits, I actively engage in extra
 ## What I'm doing
 - JAD Data Science team leading
 - KUbeSat software development
-- Research assisting
 - Learning to play the saxophone
+- More advanced alarm app
