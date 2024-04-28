@@ -8,7 +8,5 @@
 In addition to my academic and professional pursuits, I actively engage in extracurricular activities. At Jayhawk Aero Design, I contribute to the Data Science and Intelligence Team, analyzing aircraft airspeed statistics for design decisions in the AIAA Design/Build/Fly competition. I developed an adaptive MATLAB application to optimize flight strategy based on competitor performance. In KUbeSat, I'm a member of the Software Team, developing Python software for inter-payload communication between the KUbeSat1 satellite and the ground station. These experiences have enriched my academic journey, providing practical applications of data analysis and engineering principles. I'm grateful for the collaborative and innovative learning opportunities these activities offer.</p>
 
 ## What I'm doing
-- JAD Data Science team leading
-- KUbeSat software development
+- Internship stuff
 - Learning to play the saxophone
-- More advanced alarm app
