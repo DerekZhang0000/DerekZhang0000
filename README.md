@@ -3,9 +3,15 @@
 ![GitHub Followers](https://img.shields.io/github/followers/DerekZhang0000?label=Follow&style=social)
 
 ## About me
-<p>I'm Derek Zhang, a machine learning and software development specialist studying computer science at the University of Kansas. I have experience in developing Python-based deep learning models at GE HealthCare for predicting MRI reconstruction time. I co-founded DataBlu, where I created custom software for small businesses. At Cboe Global Markets, I programmed real-time market exchanges. Additionally, I conducted research on variable relationships in disaster recovery. I possess skills in Python, C/C++, and machine learning libraries including PyTorch and Tensorflow. I am always eager to collaborate and tackle new challenges.
+<p>Hi, I'm Derek Zhang, a software professional with a solid background in AI and machine learning. I have a special interest in computer vision and AI, but my passion spans many areas, including system engineering, robotics, and quantitative analysis. My educational journey has taken me from a Bachelor's degree in Computer Science at the University of Kansas to pursuing a Master's at the University of Colorado Boulder, where I'm deepening my knowledge.
 
-In addition to my academic and professional pursuits, I actively engage in extracurricular activities. At Jayhawk Aero Design, I contribute to the Data Science and Intelligence Team, analyzing aircraft airspeed statistics for design decisions in the AIAA Design/Build/Fly competition. I developed an adaptive MATLAB application to optimize flight strategy based on competitor performance. In KUbeSat, I'm a member of the Software Team, developing Python software for inter-payload communication between the KUbeSat1 satellite and the ground station. These experiences have enriched my academic journey, providing practical applications of data analysis and engineering principles. I'm grateful for the collaborative and innovative learning opportunities these activities offer.</p>
+In my professional experience, I've had the opportunity to work on a variety of projects and internships. At Indra Air Traffic, I developed AI models to streamline system evaluations, and at GE HealthCare, I worked on deep learning models for MRI imaging. These roles have given me practical insights into applying advanced technologies to solve real-world problems.
+
+I've also contributed to and led several projects outside of my internships. From analyzing data for aerospace design competitions to developing computer vision models for detecting parking spots, I enjoy tackling challenges and seeing projects through to completion.
+
+My technical skills span across various programming languages and tools, including Python and C++. I am particularly interested in how AI can be used to enhance systems engineering and robotics.
+
+I'm always open to job opportunities where I can leverage my expertise in AI, machine learning, and computer vision. Feel free to connect if you think my skills and experience align with what you're looking for.</p>
 
 ## What I'm doing
 - Internship stuff
