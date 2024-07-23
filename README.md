@@ -15,4 +15,5 @@ I'm always open to job opportunities where I can leverage my expertise in AI, ma
 
 ## What I'm doing
 - Internship stuff
+- Grad school
 - Learning to play the saxophone
