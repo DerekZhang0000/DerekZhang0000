@@ -14,6 +14,5 @@ My technical skills span across various programming languages and tools, includi
 I'm always open to job opportunities where I can leverage my expertise in AI, machine learning, and computer vision. Feel free to connect if you think my skills and experience align with what you're looking for.</p>
 
 ## What I'm doing
-- Internship stuff
 - Grad school
 - Learning to play the saxophone
