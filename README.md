@@ -3,15 +3,15 @@
 ![GitHub Followers](https://img.shields.io/github/followers/DerekZhang0000?label=Follow&style=social)
 
 ## About me
-<p>Hi, I'm Derek Zhang, a software professional with a solid background in AI and machine learning. I have a special interest in computer vision and AI, but my passion spans many areas, including system engineering, robotics, and quantitative analysis. My educational journey has taken me from a Bachelor's degree in Computer Science at the University of Kansas to pursuing a Master's at the University of Colorado Boulder, where I'm deepening my knowledge.
+<p>Hi, I'm Derek Zhang, a software professional with a diverse background in software development and engineering. My experience spans a variety of areas, including system engineering, robotics, quantitative analysis, and AI. I hold a Bachelor's degree in Computer Science from the University of Kansas and am currently pursuing a Master's at the University of Colorado Boulder, where I'm further expanding my technical knowledge.
 
-In my professional experience, I've had the opportunity to work on a variety of projects and internships. At Indra Air Traffic, I developed AI models to streamline system evaluations, and at GE HealthCare, I worked on deep learning models for MRI imaging. These roles have given me practical insights into applying advanced technologies to solve real-world problems.
+Throughout my career, I've had the opportunity to work on a wide range of projects and internships that have honed my skills in problem-solving and innovation. For example, at Indra Air Traffic, I developed models to streamline system evaluations, and at GE HealthCare, I contributed to optimizing imaging processes. These experiences have deepened my understanding of how technology can be applied to solve complex challenges.
 
-I've also contributed to and led several projects outside of my internships. From analyzing data for aerospace design competitions to developing computer vision models for detecting parking spots, I enjoy tackling challenges and seeing projects through to completion.
+Beyond my professional roles, I've also led and contributed to various projects, from analyzing data for aerospace design competitions to developing software solutions for real-world applications. I enjoy tackling new challenges and bringing projects to successful completion.
 
-My technical skills span across various programming languages and tools, including Python and C++. I am particularly interested in how AI can be used to enhance systems engineering and robotics.
+My technical skill set includes proficiency in several programming languages and tools, including Python and C++, and I am passionate about leveraging technology to drive progress in various domains.
 
-I'm always open to job opportunities where I can leverage my expertise in AI, machine learning, and computer vision. Feel free to connect if you think my skills and experience align with what you're looking for.</p>
+I'm always open to connecting with others and exploring opportunities where I can apply my skills and experience to make an impact. Feel free to reach out if you think there might be a good fit.</p>
 
 ## What I'm doing
 - Grad school
