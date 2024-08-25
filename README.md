@@ -3,7 +3,7 @@
 ![GitHub Followers](https://img.shields.io/github/followers/DerekZhang0000?label=Follow&style=social)
 
 ## About me
-<p>Hi, I'm Derek Zhang, a software professional with a diverse background in software development and engineering. My experience spans a variety of areas, including system engineering, robotics, quantitative analysis, and AI. I hold a Bachelor's degree in Computer Science from the University of Kansas and am currently pursuing a Master's at the University of Colorado Boulder, where I'm further expanding my technical knowledge.
+<p>Hi, I'm Derek Zhang, a software professional with a diverse background in software development and engineering. My experience spans a variety of areas, including software engineering, system engineering, and robotics. I hold a Bachelor's degree in Computer Science from the University of Kansas and am currently pursuing a Master's at the University of Colorado Boulder, where I'm further expanding my technical knowledge.
 
 Throughout my career, I've had the opportunity to work on a wide range of projects and internships that have honed my skills in problem-solving and innovation. For example, at Indra Air Traffic, I developed models to streamline system evaluations, and at GE HealthCare, I contributed to optimizing imaging processes. These experiences have deepened my understanding of how technology can be applied to solve complex challenges.
 
