@@ -14,5 +14,6 @@ My technical skill set includes proficiency in several programming languages and
 I'm always open to connecting with others and exploring opportunities where I can apply my skills and experience to make an impact. Feel free to reach out if you think there might be a good fit.</p>
 
 ## What I'm doing
+- Software engineering
 - Grad school
 - Learning to play the saxophone
